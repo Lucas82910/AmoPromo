@@ -51,7 +51,7 @@ npx Cypress open
 6. Após a conclusão dos testes, você verá os resultados na interface do Cypress.
 
 **Se ja houver o arquivos "package.json", e estiver dando que não tem as dependencias, pode-se utilizar o comando abaixo:
-2. Instale as dependências do projeto:
+1. Instale as dependências do projeto:
 npm install (Utilizar para instalar as dependências de um projeto Node.js. Ele não cria um novo projeto, mas sim instala as dependências listadas no arquivo package.json do diretório atual.)
 
 
