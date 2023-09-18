@@ -28,9 +28,12 @@ code .
 3.2 Abra um terminal, execute o comando Cypress para abrir a interface de teste:
 npx Cypress open
 
-//Caminho dos arquivos da automação do Cypress no VS Code: AmoPromo->cypress->e2e->PassagemAerea / SeguroViagem / SeguroViagemCupom
+**Precisa descompactar o arquivo que está no ZIP, caso seja feito o Download do arquivo do GitHub em ZIP.**
+
+//Caminho dos arquivos da automação do Cypress no VS Code: AmoPromo-main->cypress->e2e->PassagemAerea / SeguroViagem / SeguroViagemCupom
 
 
+//Caminho dos arquivos da automação do Cypress no .ZIP: AmoPromo-main->cypress->e2e->PassagemAerea / SeguroViagem / SeguroViagemCupom
 
 
 **CASO PRECISE INSTALAR AS DEPENDENCIAS(PACKAGE)**
